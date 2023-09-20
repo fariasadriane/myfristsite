@@ -152,6 +152,7 @@ section:nth-of-type(9){
 #foto{ 
 border-radius: 8px;
 margin-left:48%;
+text-align: center;
 }
 h3,h5{
 text-align: center;
